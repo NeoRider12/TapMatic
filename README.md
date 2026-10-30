@@ -6,6 +6,15 @@ No ads, no tracking, no internet permission.
 
 **[⬇ Download the latest APK](../../releases/latest)**
 
+<table><tr>
+<td align="center"><img src="screenshots/1-home.png" width="230" alt="Home"><br><sub>Home</sub></td>
+<td align="center"><img src="screenshots/2-settings.png" width="230" alt="Settings"><br><sub>Settings</sub></td>
+<td align="center"><img src="screenshots/3-move-points.png" width="230" alt="Move points"><br><sub>Move points</sub></td>
+<td align="center"><img src="screenshots/4-running.png" width="230" alt="Running"><br><sub>Running</sub></td>
+</tr></table>
+
+<sub>Images are illustrations of the app UI.</sub>
+
 ## Features
 
 - **Tap points** – 1 to 30 points, freely placed by dragging, tapped in turn
